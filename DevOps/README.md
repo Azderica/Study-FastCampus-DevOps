@@ -1,6 +1,8 @@
 # DevOps
 
-## DevOps의 필요성
+## DevOps 시작하기
+
+### DevOps의 필요성
 
 - 2008년 애자일 컴퍼런스에서 앤드루 클레이 쉐이퍼와 패트릭 드부와가 "Agile Infrastructure"에 대해 논의하며 사용
 - **소통, 협업, 통합 및 자동화를 강조하는 소프트웨어 개발 방법론**
@@ -18,3 +20,9 @@
 
 - CLOUD server(EC2, S3, RDS) -> AWS
 - DOCKER
+
+### Jira Confluence
+
+개발 프로세스
+
+코드 -> 빌드 -> 테스트 -> 패키지 -> 릴리즈 -> 모니터링 -> 코드 (반복)
