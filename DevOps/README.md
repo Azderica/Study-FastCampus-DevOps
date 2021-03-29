@@ -95,6 +95,13 @@ Cloud Server(AWS) <-> Docker <-> Jira Software
 
 - [Jira API Document](https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/)
 
+Jira Work flow
+
+- Jira Diagram 참고. (관리자의 경우 생성 가능.)
+- Jira table : JIRAISSUE, ISSUESTATUS...
+
+Confluence -> wiki
+
 ## 스프링 프로젝트 세팅
 
 ## BitBucket
