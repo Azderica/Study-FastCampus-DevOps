@@ -104,6 +104,10 @@ Confluence -> wiki
 
 ## 스프링 프로젝트 세팅
 
+project 세팅법.
+
+- build 파일 만들어서 서버에 넘기고.
+
 ## BitBucket
 
 ## Jenkins 소개 및 세팅
