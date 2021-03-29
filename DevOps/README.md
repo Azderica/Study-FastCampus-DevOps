@@ -107,8 +107,16 @@ Confluence -> wiki
 project 세팅법.
 
 - build 파일 만들어서 서버에 넘기고.
+- java 설치 / tomcat 설치
+- tomcat 권한 부여
+- FileZilla로 파일 보내기
+- server.xml 컨트롤
+
+- war 파일 만들어서 올리기.
 
 ## BitBucket
+
+github와 같이 형상관리 가능.
 
 ## Jenkins 소개 및 세팅
 
