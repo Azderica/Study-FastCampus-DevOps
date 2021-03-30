@@ -138,3 +138,9 @@ github와 같이 형상관리 가능.
 Plugin 관리.
 
 ## AWS Server
+
+DB 연결 가능
+
+DB tool -> Dbeaver (무료 및 여러 DB 사용에 유리)
+
+- [KaKao Developers](developers.kakao.com/)
