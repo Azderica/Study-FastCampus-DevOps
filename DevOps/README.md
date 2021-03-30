@@ -120,4 +120,21 @@ github와 같이 형상관리 가능.
 
 ## Jenkins 소개 및 세팅
 
+[젠킨스 로컬 호스트 설치 방법](https://jenkins.io/)
+
+순서
+
+1. brew 설치
+2. 젠킨스 설치 (`brew install jenkins`)
+3. oracle jdk 설치 (jenkins, global tool configuration)
+4. 필수 파일 설치
+5. bit bucket / github 연결
+6. 젠킨스 설정 (java, mvn, git)
+
+젠킨스 설치 과정
+
+- 젠킨스 설치 => 젠킨스 설정(java, mvn, git) => 젠킨스 프로젝트 세팅(git 정보) => 배포 파이프라인 구축
+
+Plugin 관리.
+
 ## AWS Server
