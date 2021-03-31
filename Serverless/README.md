@@ -35,3 +35,23 @@ FaaS는 Serverless의 부분집합
 - API
 
 ## 서버리스 프로젝트
+
+- [Github link](https://github.com/hidekuma/serverless-project-2019)
+
+STEP
+
+1. 참가신청 화면 (신청서 작성 및 전송)
+2. 신청내역 화면 (신청내역 리스트업)
+3. 신청결과 화면 (참가증 확인)
+
+### Architecture
+
+Business logic
+
+![image](https://github.com/hidekuma/serverless-project-2019/raw/master/i/aws-arch.png)
+
+### Design
+
+- [Material Design Lite](https://getmdl.io/)
+- [CDN Dialog](https://cdnjs.com/libraries/dialog-polyfill)
+- [jQuery CDN](https://code.jquery.com/)
